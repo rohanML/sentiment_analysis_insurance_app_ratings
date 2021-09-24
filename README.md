@@ -1,7 +1,7 @@
 Sentiment Analysis of Insurance App Rating
 ==============================
 
-## Using Play Store reviews of the general insurance companies' apps, analyze what is working, what are the challenges & how to address the challenges to make apps better.
+Using Play Store reviews of the general insurance companies' apps, analyze what is working, what are the challenges & how to address the challenges to make apps better.
 
 ### Table of Contents
 
